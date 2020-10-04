@@ -13,4 +13,4 @@ Will return a console.log list of all available voices.
 Voice is currently set to Lisa as denoted by the __voice:'en-US_LisaV3Voice'__  
 
 ## Run  
-Running node watson.js will send the API request. The response will create a sound file in directory named "speech" denoted by __accept__ , with __text__ spoken by __voice__ .
+Running node watson.js will send the API request. The response will create an audio file in directory named "speech" denoted by __accept__ , with __text__ spoken by __voice__ .
